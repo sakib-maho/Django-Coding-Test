@@ -1,3 +1,7 @@
+# Copyright (c) 2025 sakib-maho
+# Licensed under the MIT License
+# See LICENSE file for details
+
 """djangoProject URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
